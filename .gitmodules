@@ -1,0 +1,3 @@
+[submodule "RiskAssess"]
+	path = RiskAssess
+	url = https://github.com/jatinsahijwani/RiskAssess.git
